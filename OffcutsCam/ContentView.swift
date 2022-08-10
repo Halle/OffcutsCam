@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  OffcutsCam
 //
-//  Created by Halle on 10.08.22.
+//  Created by Halle Winkler on 10.08.22.
 //
 
 import SwiftUI
