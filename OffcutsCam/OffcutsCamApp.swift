@@ -12,6 +12,7 @@ struct OffcutsCamApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView(systemExtensionRequestManager: SystemExtensionRequestManager(logText: ""))
+                .frame(minWidth: 300, minHeight: 180)
         }
     }
 }
