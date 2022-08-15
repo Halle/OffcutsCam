@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		8C142FE528A401EF008E5BD4 /* OffcutsCam.app in CopyFiles */ = {isa = PBXBuildFile; fileRef = 8C3B7E4D28A3E43200E7BAFB /* OffcutsCam.app */; };
 		8C3B7E5128A3E43200E7BAFB /* OffcutsCamApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C3B7E5028A3E43200E7BAFB /* OffcutsCamApp.swift */; };
 		8C3B7E5328A3E43200E7BAFB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C3B7E5228A3E43200E7BAFB /* ContentView.swift */; };
 		8C3B7E5528A3E43300E7BAFB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8C3B7E5428A3E43300E7BAFB /* Assets.xcassets */; };
@@ -28,16 +27,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		8C142FE428A401DE008E5BD4 /* CopyFiles */ = {
-			isa = PBXCopyFilesBuildPhase;
-			buildActionMask = 12;
-			dstPath = /Applications;
-			dstSubfolderSpec = 0;
-			files = (
-				8C142FE528A401EF008E5BD4 /* OffcutsCam.app in CopyFiles */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		8C3B7E7128A3E48200E7BAFB /* Embed System Extensions */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
@@ -143,7 +132,6 @@
 				8C3B7E4A28A3E43200E7BAFB /* Frameworks */,
 				8C3B7E4B28A3E43200E7BAFB /* Resources */,
 				8C3B7E7128A3E48200E7BAFB /* Embed System Extensions */,
-				8C142FE428A401DE008E5BD4 /* CopyFiles */,
 			);
 			buildRules = (
 			);
